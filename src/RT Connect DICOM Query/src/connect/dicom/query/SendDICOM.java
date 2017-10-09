@@ -62,7 +62,7 @@ public class SendDICOM extends javax.swing.JFrame {
         jScrollPane1 = new javax.swing.JScrollPane();
         jTextArea1 = new javax.swing.JTextArea();
 
-        setTitle("Send DICOM Files...");
+        setTitle("Envio DICOM ...");
         setAlwaysOnTop(true);
 
         jLabel1.setText("IP:");

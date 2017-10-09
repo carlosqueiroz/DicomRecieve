@@ -65,7 +65,7 @@ System.out.println("Unable to load Windows look and feel");
         jButton1 = new javax.swing.JButton();
         jButton2 = new javax.swing.JButton();
 
-        setTitle("Advanced Preferences");
+        setTitle("Configurações");
         setAlwaysOnTop(true);
         setResizable(false);
         setType(java.awt.Window.Type.POPUP);
